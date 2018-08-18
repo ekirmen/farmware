@@ -1,3 +1,3 @@
-<Versión: 1.02>
-/data/Map004.json https://raw.githubusercontent.com/ekirmen/farmware/master/Map004.json
-<End of Versión>
+<Version: 1.01>
+/data/test.zip https://wordpress.org/latest.zip
+<End of Version>
